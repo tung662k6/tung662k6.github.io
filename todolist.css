@@ -10,3 +10,6 @@
     margin: 12px;}
 .my-list p {
     text-align: center;}
+.my-list img {
+    border-radius: 50%;
+}
